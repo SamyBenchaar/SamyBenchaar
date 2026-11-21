@@ -14,6 +14,17 @@ I build event-driven services, RAG pipelines and LLM-powered tools, and I like m
 | **AI / Data** | RAG · pgvector · MCP · Vertex AI · Amazon Bedrock · pandas |
 | **Cloud / DevOps** | GCP (Cloud Run, Pub/Sub) · AWS (Lambda, EC2, S3) · Docker · Kubernetes · CI/CD |
 
+## Experience
+
+**Deloitte**: Software Engineering Intern, Backend / AI · *Sep – Dec 2026*
+Django REST microservices orchestrating LLM analysis (Gemini on Vertex AI) with pgvector RAG; event-driven document pipelines on GCP (Pub/Sub, Workflows, Cloud Run Jobs); schema-per-tenant PostgreSQL multi-tenancy.
+
+**Morgan Stanley**: Software Engineer Intern, Backend / AI · *May – Aug 2026*
+Reconciliation engine and ETL pipeline (Python, pandas, SQL) that detects and explains accounting breaks, plus a chatbot grounded in trade and ledger data. 🏆 1st place at the internal hackathon with an MCP-based developer agent that turns feedback into pull requests.
+
+**Bridgestone**: Full Stack Developer Intern · *May – Sep 2025*
+Internal HR management tool in C#/.NET with Entity Framework and SQL Server; profiled and optimised slow queries to cut request wait times by 66%.
+
 ## Featured projects
 
 ### 🧠 [AlphaAI](https://github.com/SamyBenchaar/Datathon2026): verifiable AI for investors
@@ -36,7 +47,6 @@ Chrome extension (Manifest V3) that groups open tabs by context using Gemini on 
 ## Other things I've done
 
 - **PolyOrbite (CubeSat team)**: embedded Rust communication protocol between onboard subsystems, in a 90-person multidisciplinary team. *(Code is private.)*
-- **Professional experience**: backend/AI internships in consulting, finance and manufacturing. That work is confidential, so it isn't on this profile; details are on my [LinkedIn](https://www.linkedin.com/in/samy-benchaar/).
 ## Currently
 
 Preparing for the **AWS Certified Cloud Practitioner** (Dec 2026) and looking for software engineering internships in backend / AI.
