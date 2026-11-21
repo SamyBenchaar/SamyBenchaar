@@ -26,9 +26,15 @@ Real-time, turn-based strategy game playable in the browser: map editor, lobbies
 ### 🗂️ [Tab Context Grouper](https://github.com/SamyBenchaar/Tab-auto-grouping): AI tab organiser
 Chrome extension (Manifest V3) that groups open tabs by context using Gemini on Vertex AI, through a Node.js API on Cloud Run with Google sign-in and per-user daily quotas.
 
+## More projects
+
+- **[MentorConnect](https://github.com/SamyBenchaar/Mchacks)** (McHacks): mentorship platform with JWT auth, real-time messaging and session booking. React, Node/Express, MongoDB, Socket.IO.
+- **[Emotion recognition](https://github.com/SamyBenchaar/HackatonCodeML)** (CodeML hackathon): facial-emotion classifier fine-tuned from ResNet18 on ~29k images. PyTorch.
+- **[Spotify recommendation engine](https://github.com/SamyBenchaar/PP_Spotify_recommendation)**: content-based recommender that turns a playlist into a profile vector and matches it against 160k songs with TF-IDF and cosine similarity. Python, scikit-learn.
+- **[Autonomous embedded robot](https://github.com/SamyBenchaar/Big-C-Embedded-System-Autonomous-Robot)**: AVR firmware in C/C++ for a sensor-driven robot (PWM motor control, line and distance sensors).
+
 ## Other things I've done
 
-- **Hackathons & competitions**: [McHacks](https://github.com/SamyBenchaar/Mchacks), [CodeML](https://github.com/SamyBenchaar/HackatonCodeML) and others. Short, intense team events focused on building a working product fast.
 - **PolyOrbite (CubeSat team)**: embedded Rust communication protocol between onboard subsystems, in a 90-person multidisciplinary team. *(Code is private.)*
 - **Professional experience**: backend/AI internships in consulting, finance and manufacturing. That work is confidential, so it isn't on this profile; details are on my [LinkedIn](https://www.linkedin.com/in/samy-benchaar/).
 ## Currently
