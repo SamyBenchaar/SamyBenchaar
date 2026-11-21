@@ -16,14 +16,9 @@ I build event-driven services, RAG pipelines and LLM-powered tools, and I like m
 
 ## Experience
 
-**Deloitte**: Software Engineering Intern, Backend / AI · *Sep – Dec 2026*
-Django REST microservices orchestrating LLM analysis (Gemini on Vertex AI) with pgvector RAG; event-driven document pipelines on GCP (Pub/Sub, Workflows, Cloud Run Jobs); schema-per-tenant PostgreSQL multi-tenancy.
-
-**Morgan Stanley**: Software Engineer Intern, Backend / AI · *May – Aug 2026*
-Reconciliation engine and ETL pipeline (Python, pandas, SQL) that detects and explains accounting breaks, plus a chatbot grounded in trade and ledger data. 🏆 1st place at the internal hackathon with an MCP-based developer agent that turns feedback into pull requests.
-
-**Bridgestone**: Full Stack Developer Intern · *May – Sep 2025*
-Internal HR management tool in C#/.NET with Entity Framework and SQL Server; profiled and optimised slow queries to cut request wait times by 66%.
+- **Deloitte**: Software Engineering Intern, Backend / AI · *Sep – Dec 2026*
+- **Morgan Stanley**: Software Engineer Intern, Backend / AI · *May – Aug 2026*
+- **Bridgestone**: Full Stack Developer Intern · *May – Sep 2025*
 
 ## Featured projects
 
